@@ -1,0 +1,2 @@
+# excludes the Maven's output from the Docker build context
+target
